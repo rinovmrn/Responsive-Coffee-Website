@@ -1,7 +1,6 @@
-# Credit by Bedimcode
-## Sunset Coffee
+# Sunset Coffee Website
 ## [Watch it on youtube](https://youtu.be/JFQAUjpyUpk)
-### Sunset Coffee Website
+### Credit by Bedimcode
 
 - Responsive Coffee Website Design Using HTML CSS & JavaScript
 - Contains animations when scrolling.
